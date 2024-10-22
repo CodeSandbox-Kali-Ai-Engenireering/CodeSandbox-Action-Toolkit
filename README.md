@@ -1,3 +1,5 @@
+
+
 # CodeSandbox-Kali-TMux-PatcherREADME
 Code of conduct
 MIT license
@@ -167,3 +169,16 @@ We welcome contributions. See how to contribute.
 
 Code of Conduct
 See our code of conduct.
+
+# npm update -D @pkg-tools/build @pkg-tools/clean @pkg-tools/config @pkg-tools/format @pkg-tools/lint
+# npm install -D @pkg-tools/build @pkg-tools/clean @pkg-tools/config @pkg-tools/format @pkg-tools/lint
+# npm upgrade -D @pkg-tools/build @pkg-tools/clean @pkg-tools/config @pkg-tools/format @pkg-tools/lint
+# FROM mcr.microsoft.com/devcontainers/base: =
+		  {"**"pkg:= packages:= package {"pipxPackageManager} 
+		  {$"pkg:= pipxPackageManager:= Dependencies"},
+		  {$"path:= curl https://sh.rustup.rs -sSf | sh -s -- -y --
+# npm upgrade -D @pkg-tools/build @pkg-tools/clean @pkg-tools/config @pkg-tools/format @pkg-tools/lint-toolchain stable
+		  {ENV PATH="/root/.cargo/sbin:${PATH}"pkg:= package}
+		  {$env:windir}\\Sysnative\\pipxPackageManager",
+		  {$env:windir}\\"pkg:= packages:= OSX, arm64, v8a:= package:= pipPackageManager:= Dependencies}",\\pipxPackageManager"}
+		  {$env:windir}\\System32\\pipxPackageManager"**"}
